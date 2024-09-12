@@ -61,10 +61,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/TheKidPersonOp"
+                text="Uᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/Neoupdatess"
             ),
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/NeoUpdatess"
+                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/FRIENDS2FAMILY_00"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -76,10 +76,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/TheKidPersonOp"
+                text="Uᴘᴅᴀᴛᴇs 📢", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(
-                text="ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/NeoUpdatess"
+                text="Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/FRIENDS2FAMILY_00"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
